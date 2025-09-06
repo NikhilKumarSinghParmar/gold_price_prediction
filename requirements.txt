@@ -11,4 +11,7 @@ yfinance
 
 pipdeptree
 
+tensorflow
+keras
+
 #-e .
