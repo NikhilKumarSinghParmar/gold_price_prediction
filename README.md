@@ -9,15 +9,21 @@ To maintain the integrity and originality of our results, the final version of t
 training data : usd/usx (from 2013-2022)
 we trained our models on different stages and below is the result of this early stage training
 
-
+[blue line : real price]
+[yellow line:predicted price]
 ![alt text](output_240-1.png)
 
 
+[blue line : real price]
+[yellow line:predicted price]
 ![alt text](output_120-1.png)
 
 
 and final model is tested on the dataset of year 2023
 
+
+[blue line : real price]
+[yellow line:predicted price]
 ![alt text](output.png)
 
 
